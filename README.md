@@ -7,9 +7,9 @@ El objeto elegido es un peluche de **Gengar**, procesado mediante fotogrametría
 
 | Nivel de Detalle | Triángulos aprox. | Uso en escena |
 | :--- | :---: | :--- |
-| **LOD 0** | ~10.000 tris | Inspección cercana y agarre directo con las manos virtuales |
-| **LOD 1** | ~5.000 tris | Distancia media en el espacio de trabajo |
-| **LOD 2** | ~998 tris | Distancia lejana / reducción de carga geométrica |
+| **LOD 0** | ~10.000 tris | Inspección cercana y agarre directo con las manos |
+| **LOD 1** | ~5.000 tris | Distancia media |
+| **LOD 2** | ~998 tris | Distancia lejana |
 
 ![Comparativa de malla y LODs en Unreal Engine](./Screenshots/retopologia_lods.png)
 
